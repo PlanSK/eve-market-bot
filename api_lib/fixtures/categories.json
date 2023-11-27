@@ -1,0 +1,232 @@
+[
+    {
+        "id": 0,
+        "name_ru": "#Система",
+        "name_en": "#System"
+    },
+    {
+        "id": 1,
+        "name_ru": "Владелец",
+        "name_en": "Owner"
+    },
+    {
+        "id": 2,
+        "name_ru": "Небесное тело",
+        "name_en": "Celestial"
+    },
+    {
+        "id": 3,
+        "name_ru": "Станция",
+        "name_en": "Station"
+    },
+    {
+        "id": 4,
+        "name_ru": "Материал",
+        "name_en": "Material"
+    },
+    {
+        "id": 5,
+        "name_ru": "Вспомогательные предметы",
+        "name_en": "Accessories"
+    },
+    {
+        "id": 6,
+        "name_ru": "Корабль",
+        "name_en": "Ship"
+    },
+    {
+        "id": 7,
+        "name_ru": "Модуль",
+        "name_en": "Module"
+    },
+    {
+        "id": 8,
+        "name_ru": "Заряд",
+        "name_en": "Charge"
+    },
+    {
+        "id": 9,
+        "name_ru": "Чертеж",
+        "name_en": "Blueprint"
+    },
+    {
+        "id": 10,
+        "name_ru": "Торговля",
+        "name_en": "Trading"
+    },
+    {
+        "id": 11,
+        "name_ru": "Объект",
+        "name_en": "Entity"
+    },
+    {
+        "id": 14,
+        "name_ru": "Бонус",
+        "name_en": "Bonus"
+    },
+    {
+        "id": 16,
+        "name_ru": "Навык",
+        "name_en": "Skill"
+    },
+    {
+        "id": 17,
+        "name_ru": "Товар",
+        "name_en": "Commodity"
+    },
+    {
+        "id": 18,
+        "name_ru": "Дрон",
+        "name_en": "Drone"
+    },
+    {
+        "id": 20,
+        "name_ru": "Имплантат",
+        "name_en": "Implant"
+    },
+    {
+        "id": 22,
+        "name_ru": "Сбрасываемые предметы",
+        "name_en": "Deployable"
+    },
+    {
+        "id": 23,
+        "name_ru": "ПОСы",
+        "name_en": "Starbase"
+    },
+    {
+        "id": 24,
+        "name_ru": "Реакция",
+        "name_en": "Reaction"
+    },
+    {
+        "id": 25,
+        "name_ru": "Астероид",
+        "name_en": "Asteroid"
+    },
+    {
+        "id": 26,
+        "name_ru": "WorldSpace",
+        "name_en": "WorldSpace"
+    },
+    {
+        "id": 29,
+        "name_ru": "Общее",
+        "name_en": "Abstract"
+    },
+    {
+        "id": 30,
+        "name_ru": "Одежда",
+        "name_en": "Apparel"
+    },
+    {
+        "id": 32,
+        "name_ru": "Подсистема",
+        "name_en": "Subsystem"
+    },
+    {
+        "id": 34,
+        "name_ru": "Древние устройства",
+        "name_en": "Ancient Relics"
+    },
+    {
+        "id": 35,
+        "name_ru": "Файлы данных",
+        "name_en": "Decryptors"
+    },
+    {
+        "id": 39,
+        "name_ru": "Расширения инфраструктуры",
+        "name_en": "Infrastructure Upgrades"
+    },
+    {
+        "id": 40,
+        "name_ru": "Модули воздействия на право владения",
+        "name_en": "Sovereignty Structures"
+    },
+    {
+        "id": 41,
+        "name_ru": "Планетарная промышленность",
+        "name_en": "Planetary Industry"
+    },
+    {
+        "id": 42,
+        "name_ru": "Планетарные ресурсы",
+        "name_en": "Planetary Resources"
+    },
+    {
+        "id": 43,
+        "name_ru": "Планетарные товары",
+        "name_en": "Planetary Commodities"
+    },
+    {
+        "id": 46,
+        "name_ru": "Орбитальные станции",
+        "name_en": "Orbitals"
+    },
+    {
+        "id": 49,
+        "name_ru": "Декорации",
+        "name_en": "Placeables"
+    },
+    {
+        "id": 53,
+        "name_ru": "Спецэффекты",
+        "name_en": "Effects"
+    },
+    {
+        "id": 54,
+        "name_ru": "Освещение",
+        "name_en": "Lights"
+    },
+    {
+        "id": 59,
+        "name_ru": "Клетки",
+        "name_en": "Cells"
+    },
+    {
+        "id": 63,
+        "name_ru": "Предметы из особых изданий",
+        "name_en": "Special Edition Assets"
+    },
+    {
+        "id": 65,
+        "name_ru": "Сооружения",
+        "name_en": "Structure"
+    },
+    {
+        "id": 66,
+        "name_ru": "Блоки сооружений",
+        "name_en": "Structure Module"
+    },
+    {
+        "id": 87,
+        "name_ru": "Истребители",
+        "name_en": "Fighter"
+    },
+    {
+        "id": 91,
+        "name_ru": "Окраски",
+        "name_en": "SKINs"
+    },
+    {
+        "id": 2100,
+        "name_ru": "Экспертные системы",
+        "name_en": "Expert Systems"
+    },
+    {
+        "id": 2107,
+        "name_ru": "Бурение",
+        "name_en": "Mining"
+    },
+    {
+        "id": 2118,
+        "name_ru": "Персонализация",
+        "name_en": "Personalization"
+    },
+    {
+        "id": 350001,
+        "name_ru": "Пехотное",
+        "name_en": "Infantry"
+    }
+]
