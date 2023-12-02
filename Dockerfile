@@ -5,6 +5,7 @@ WORKDIR /bot_app
 COPY requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY . .
+COPY ./eve_market_bot/ eve_market_bot/
+COPY ./main.py .
 
 CMD [ "python", "./main.py" ]
