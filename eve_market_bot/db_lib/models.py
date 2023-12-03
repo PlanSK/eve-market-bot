@@ -1,4 +1,4 @@
-from peewee import SqliteDatabase, Model, CharField, IntegerField, ForeignKeyField, IntegrityError, chunked
+from peewee import Model, CharField, IntegerField, ForeignKeyField
 
 
 class User(Model):
