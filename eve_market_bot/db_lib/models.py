@@ -3,7 +3,7 @@ from peewee import Model, CharField, IntegerField, ForeignKeyField
 
 class User(Model):
     id = IntegerField(primary_key=True)
-    first_name = CharField()
+    first_name = CharField(null=True)
     last_name = CharField(null=True)
 
 
